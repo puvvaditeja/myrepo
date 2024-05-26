@@ -1,2 +1,3 @@
 # myrepo
-this is first git
+this is teja
+i am a student
